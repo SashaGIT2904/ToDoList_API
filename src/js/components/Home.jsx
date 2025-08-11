@@ -185,7 +185,6 @@ const Home = () => {
               </div>
             </div>
             <p className="text-center text-white-50 mt-3 small mb-0">
-              Hecho con React + Bootstrap, sin dependencias extra.
             </p>
           </div>
         </div>
